@@ -4,7 +4,6 @@ const util = require("util");
 
 const generatorMarkdown = require("./util/generateMarkdown.js");
 
-// ? array of questions for user responses
 const questions = [
   {
     type: "input",

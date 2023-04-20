@@ -32,7 +32,7 @@ In order to use this app, This application is designed to be utilized by develop
 
 ## Contributors
 
-​Contributors: undefined
+​Contributors: CodeNameNoah-Noah_Hoang
 
 ## Tests
 
