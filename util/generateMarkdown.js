@@ -58,10 +58,10 @@ function generateMarkdown(data) {
   const licenseSection = renderLicenseSection(data.License);
 
   return ` # ${data.Title}
-  https://github.com/${data.Username}/${data.Title}
+  * Deployed Link
+    * https://github.com/${data.Username}/${data.Title}
   ## Description
   ${data.Description}
-  ## Licensing:
   ## Table of Contents 
   * [Installation](#installation)
   * [Usage](#usage)
