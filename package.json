@@ -1,14 +1,26 @@
 {
-  "name": "static-site",
+  "name": "professional-readme-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "An application which utilizes node.js, and NPM packages to generate README.mds within the CLI",
   "main": "index.js",
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "inquirer": "^6.5.2",
+    "util": "^0.12.3"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "inquirer": "^6.3.1"
-  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeNameNoah/Professional-README-Generator.git"
+  },
+  "keywords": [],
+  "author": "Noah Hoang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CodeNameNoah/Professional-README-Generator/issues"
+  },
+  "homepage": "https://github.com/CodeNameNoah/Professional-README-Generator#readme"
 }
