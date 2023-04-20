@@ -70,7 +70,13 @@ The program will then prompt the developer for information about the project, su
 
 The generated readme.md file can then be saved and used as the project's documentation. The program's customizability makes it an excellent tool for developers who need to create documentation that is both comprehensive and concise, saving them time and effort in the documentation process.
 
-- Note that you can still search even within the results page.
+Here is a screen to help illustrate the prompt phase where the user will respond to a series of prompt asked by the constructor function to generate their custom README.md
+
+---
+
+![snippetofnodeuse](https://user-images.githubusercontent.com/127361736/233314153-1022f981-4eff-4bdb-9ed8-2b3873849441.png)
+
+---
 
 ## Credits & Source Codes
 
