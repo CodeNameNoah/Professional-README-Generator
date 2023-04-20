@@ -41,7 +41,7 @@ const questions = [
   {
     type: "input",
     message: "List anyone who contributed to this project including yourself",
-    name: "Contributing",
+    name: "Contributors",
   },
   {
     type: "input",
