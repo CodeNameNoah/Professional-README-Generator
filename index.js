@@ -74,7 +74,7 @@ function writeToMarkDownFile(fileName, data) {
     if (err) {
       return console.log(err);
     } else {
-      console.log("success");
+      console.log("Your inputs have been logged into README.md successfully!");
     }
   });
 }
