@@ -32,17 +32,11 @@ Finally, I tested the program to ensure that it was working correctly and that i
 
 ---
 
-## Take A Look At Our Application In Action!
+## Take A Look At Our Application In Action! [CLICK THE PREVIEW TO WATCH!]
 
-<!-- ! MAKE GIF ! -->
+- [Professional README.md Generator User Guide](https://user-images.githubusercontent.com/127361736/233310464-e68f39d8-970d-499a-b679-64e28e1eec35.webm)
 
-![Cinexplorer - Movie Search Engine (1)](https://user-images.githubusercontent.com/127361736/231364570-eb024729-1fe9-4134-a29f-bc1f010a6c50.gif)
-
-## Links
-
-<!-- ! LINK VIDEO ! -->
-
-- Link to live application https://codenamenoah.github.io/Movie-Indexer/
+- [![Watch the video](https://img.youtube.com/vi/UY29UGIBR8k/maxresdefault.jpg)](https://youtu.be/UY29UGIBR8k)
 
 ---
 
